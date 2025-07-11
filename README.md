@@ -1,4 +1,5 @@
 🔢 Online Calculator
+
 A simple and interactive web-based calculator built using **HTML**, **CSS**, and **JavaScript**. This calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean UI and sound effects for enhanced user experience.
 
 🚀 Features
