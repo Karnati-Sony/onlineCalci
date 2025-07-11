@@ -16,6 +16,7 @@ A simple and interactive web-based calculator built using **HTML**, **CSS**, and
 - **Audio** – Button click feedback
 
 📁 Project Structure
+
 online-calculator/
 ├── index.html
 ├── calculator.css
